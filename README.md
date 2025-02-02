@@ -2,7 +2,7 @@
 
 ## Load Template with [`template-use`](https://github.com/template-use/template-use)
 ```bash
-npx template-use express-ts
+npx template-use express-ts-mongoose
 ```
 
 ## Installation
