@@ -1,5 +1,7 @@
 # Node.js - Express.js REST API with Typescript
 
+this repository is from template use, i forked it and changed it according to some of my needs btw.
+
 ## Load Template with [`template-use`](https://github.com/template-use/template-use)
 ```bash
 npx template-use express-ts-mongoose
